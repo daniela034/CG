@@ -1,0 +1,6 @@
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/CMakeFiles/engine.dir
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/tinyxml2/CMakeFiles/rebuild_cache.dir
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/tinyxml2/CMakeFiles/tinyxml2.dir
+/home/sentinela/Documentos/4ano/CG/TP/fase3/engine/cmake-build-debug/tinyxml2/CMakeFiles/edit_cache.dir

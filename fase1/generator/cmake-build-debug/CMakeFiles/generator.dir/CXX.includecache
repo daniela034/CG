@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sentinela/Documentos/4ano/CG/TP/fase1/generator/generator.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+string
+-
+
